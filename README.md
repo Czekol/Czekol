@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Mountains" width="400" src="https://media.tenor.com/eWT5VFgoxDYAAAAd/mountains-above-the-mountains.gif">
