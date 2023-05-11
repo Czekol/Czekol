@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Mountains" width="400" src="https://i.pinimg.com/originals/11/c0/0c/11c00c702d268a5a7789e801f995fbcc.gif">
+<img align="right" alt="Mountains" width="400" src="https://media.tenor.com/eWT5VFgoxDYAAAAd/mountains-above-the-mountains.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czekol&label=Profile%20views&color=0e75b6&style=flat" alt="czekol" /> </p>
 
