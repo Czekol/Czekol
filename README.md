@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
+![MasterHead](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Mountains" width="400" src="https://media.tenor.com/eWT5VFgoxDYAAAAd/mountains-above-the-mountains.gif">
