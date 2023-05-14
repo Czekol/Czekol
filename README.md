@@ -1,6 +1,6 @@
  ![MasterHead ](https://media.tenor.com/5Yo8ouVfHfIAAAAC/ronaldo-cristiano-ronaldo.gif)
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Mountains" width="500" src="https://media.tenor.com/eWT5VFgoxDYAAAAd/mountains-above-the-mountains.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czekol&label=Profile%20views&color=0e75b6&style=flat" alt="czekol" /> </p>
