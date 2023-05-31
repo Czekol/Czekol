@@ -7,9 +7,9 @@
 
 - ‼️ My biggest project [Forest group](https://github.com/Czekol/maturaMaj) ‼️
 
-- 🔭 I’m currently working on [udemy course](https://www.udemy.com/course/komponenty-na-strony-www/)
+- 🔭 I’m currently working on [FIGMA] (https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=202s)
 
-- 🌱 I’m currently learning **nothing just practice**
+- 🌱 I’m currently learning **FIGMA**
 
 - 💬 Ask me about **html css/scss js**
 
