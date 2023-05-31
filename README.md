@@ -7,7 +7,7 @@
 
 - ‼️ My biggest project [Forest group](https://github.com/Czekol/maturaMaj) ‼️
 
-- 🔭 I’m currently working on [FIGMA] (https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=202s)
+- 🔭 I’m currently working on [FIGMA](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=202s) ‼️
 
 - 🌱 I’m currently learning **FIGMA**
 
