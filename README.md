@@ -7,9 +7,9 @@
 
 - ‼️ My biggest project [Forest group](https://github.com/Czekol/maturaMaj) ‼️
 
-- 🔭 I’m currently working on [FIGMA](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=202s) ‼️
+- 🔭 I’m currently working on [STRAPI](https://strapi.io/) ‼️
 
-- 🌱 I’m currently learning **FIGMA**
+- 🌱 I’m currently learning **STRAPI**
 
 - 💬 Ask me about **html css/scss js**
 
