@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html css/scss js**
 
-- 📫 How to reach me **genialnastrona@kontakt.pl**
+- 📫 How to reach me **kontakt@genialnastrona.pl**
 
 - ⚡ Fun fact **I love dumplings**
 
