@@ -7,9 +7,9 @@
 
 - ‼️ My biggest project [Commercial Website](https://detailingkonin.pl/) ‼️
 
-- 🔭 I’m currently working on [STRAPI](https://strapi.io/) ‼️
+- 🔭 I’m currently working on [This course](https://designcourse.com/ui-ux) ‼️
 
-- 🌱 I’m currently learning **STRAPI**
+- 🌱 I’m currently learning **UI / UX Design**
 
 - 💬 Ask me about **html css/scss js**
 
